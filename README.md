@@ -1,3 +1,5 @@
+Tech-Entrepreneur, Data Scientist, Blockchain Developer, Crypto Contributor
+
 - 👋 Hi, I’m @OrlandoFuller
 - 👀 I’m interested in Music, Finance, and Entrepreneurship.
 - 🌱 I’m currently learning python, pandas, and api integration.
