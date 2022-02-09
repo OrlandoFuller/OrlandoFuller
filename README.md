@@ -1,4 +1,4 @@
-Tech-Entrepreneur, Data Scientist, Blockchain Developer, Crypto Contributor
+Consistantly evolving into a Tech-Entrepreneur, Data Scientist, Blockchain Developer, & Crypto Contributor, amongst other things.
 
 - 👋 Hi, I’m @OrlandoFuller
 - 👀 I’m interested in Music, Finance, and Entrepreneurship.
